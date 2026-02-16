@@ -9,13 +9,13 @@
 <body <?php body_class(); ?>>
     <header>
         <div class="container">
-            <div class="logo">Cost<span class="accent-orange">.</span>Eng</div>
+            <div class="logo">Cost<span class="accent-green">.</span>Eng</div>
         </div>
     </header>
 
     <main class="container">
         <section class="hero">
-            <h1>Precision in <br><span class="accent-orange">Cost Engineering.</span></h1>
+            <h1>Precision in <br><span class="accent-green">Cost Engineering.</span></h1>
             <p>We provide analytical solutions for complex infrastructure projects. Minimizing risks, maximizing efficiency.</p>
         </section>
 
